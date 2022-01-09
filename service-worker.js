@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "8b085b1142a5403e000949754be2f2fa"
+    "revision": "9aef4a4cc08f6729c74bbed6559bf0cd"
   },
   {
     "url": "assets/css/0.styles.d7499c4e.css",
@@ -52,6 +52,10 @@ self.__precacheManifest = [
   {
     "url": "assets/icons/safari-pinned-tab.svg",
     "revision": "365616d6a706f1e56b45f43d2905a575"
+  },
+  {
+    "url": "assets/image/logo.png",
+    "revision": "361ea0c3f34a7648474e3b46ceb740cb"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -102,16 +106,16 @@ self.__precacheManifest = [
     "revision": "7ba9c1716ff3f798b43e725e98e94730"
   },
   {
-    "url": "assets/js/app.6b4797a5.js",
-    "revision": "63a76e60d858ecc457649671896db1d2"
+    "url": "assets/js/app.84587f27.js",
+    "revision": "e58ff9ba5bd04df0971245d949e84e97"
   },
   {
     "url": "en-US/docs/index.html",
-    "revision": "ed344a29b3a089b9be134018ac6d6b9f"
+    "revision": "70af85181126ec1da1b1a09cddb6f8ce"
   },
   {
     "url": "en-US/index.html",
-    "revision": "f23924e7eeaa7fc0c53f6bd159ceec9f"
+    "revision": "bd0731d63eb910c66963b9d23a854948"
   },
   {
     "url": "index.html",
@@ -119,11 +123,11 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-Hans/docs/index.html",
-    "revision": "2169ee0ac10f8c19609478325ec29f41"
+    "revision": "b2b55be8345006cd9f55ff5eb6f54223"
   },
   {
     "url": "zh-Hans/index.html",
-    "revision": "bfdd939a611209ade0ef0eaeec8dd922"
+    "revision": "a8217429bb32835fb97dc5695d452b35"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
