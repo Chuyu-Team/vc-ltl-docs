@@ -1385,7 +1385,7 @@
     "@vuepress/types" "1.9.5"
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@^1.8.2":
+"@vuepress/plugin-pwa@^1.9.5":
   version "1.9.5"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.9.5.tgz#1a4d31d40121d1743c19a0539b9821addc62b4c0"
   integrity sha512-JdvxRz+ESB2owKh9TLO+kEsPPOOATIB+Y/0LS1YZ+OsOWsgyE9/AS0EoCnvcwVn5aNw9wz95klw1s4vYCDPo/Q==
@@ -8195,7 +8195,7 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress@^1.8.2:
+vuepress@^1.9.5:
   version "1.9.5"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.9.5.tgz#6078ee01d9b4074b93834d77e6f086dd85fbc62e"
   integrity sha512-cLLCKkJSxL0PCgHZILrZ13z57Wi66zABhwe2n0JaoXq/bWXdGPfr9WoObVdQ0p186I/IKRIw4Ip22Y6qy+JA8g==
