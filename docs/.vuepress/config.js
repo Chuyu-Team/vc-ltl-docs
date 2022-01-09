@@ -1,4 +1,5 @@
 ﻿module.exports = {
+  base: "/vc-ltl-docs/",
   locales: {
     '/en-US/': {
       lang: 'en-US',
