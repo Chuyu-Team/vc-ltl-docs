@@ -30,7 +30,7 @@
     lastUpdated: true,
     
     editLinks: true,
-    repo: 'MoespiritDevices/MoespiritDevices.github.io',
+    repo: 'Chuyu-Team/vc-ltl-docs',
     docsDir: 'docs',
     docsBranch: 'main',
  

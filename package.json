@@ -1,9 +1,9 @@
 {
-  "name": "Chuyu-Team.github.io",
+  "name": "vc-ltl-docs",
   "version": "1.0.0",
   "description": "Chuyu Team Official Website",
   "main": "index.js",
-  "repository": "https://github.com/Chuyu-Team/Chuyu-Team.github.io",
+  "repository": "https://github.com/Chuyu-Team/vc-ltl-docs",
   "author": "MouriNaruto <Mouri_Naruto@Outlook.com>",
   "license": "MIT",
   "devDependencies": {
