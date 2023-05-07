@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "68375fda64b3d6f314efcf15a3f83357"
+    "revision": "4d1b56529d2741b696c7042ac3c12cbd"
   },
   {
     "url": "assets/css/0.styles.b676c36c.css",
@@ -106,16 +106,16 @@ self.__precacheManifest = [
     "revision": "6e3e60c18df5de5cd798494d70ea61f8"
   },
   {
-    "url": "assets/js/app.0ea10e73.js",
-    "revision": "9a12f19a002382d2d8ea22a4fb8d6f7a"
+    "url": "assets/js/app.429a7d18.js",
+    "revision": "45df308bb4443f3c1f466922fe86acd8"
   },
   {
     "url": "en-US/docs/index.html",
-    "revision": "24e77c9878b2fb055c94916254e52a97"
+    "revision": "1aaffe1e981bf43a48064dcd2407852b"
   },
   {
     "url": "en-US/index.html",
-    "revision": "427f618f1e612b00198df3c22f1e1174"
+    "revision": "c2d3ef7b7a0c64e64587741cbc6889a7"
   },
   {
     "url": "index.html",
@@ -123,11 +123,11 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-Hans/docs/index.html",
-    "revision": "a70fa35dbd39431836df8eef464ec4d8"
+    "revision": "92b76049cf3af31ce64189e080225036"
   },
   {
     "url": "zh-Hans/index.html",
-    "revision": "76a5ad4ac764c019e5ba4f7aaaa1b5fd"
+    "revision": "60476c7a033e36dfc4e7e063a066e1c7"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
