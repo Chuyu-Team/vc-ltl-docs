@@ -31,7 +31,8 @@
     lastUpdated: true,
     
     editLinks: true,
-    repo: 'Chuyu-Team/vc-ltl-docs',
+    repo: 'Chuyu-Team/VC-LTL5',
+    docsRepo: 'Chuyu-Team/vc-ltl-docs',
     docsDir: 'docs',
     docsBranch: 'main',
  
@@ -65,7 +66,7 @@
         lastUpdated: '最后更新时间',
         nav: [
           { text: "首页", link: '/zh-Hans/'},
-          { text: "文档", link: '/zh-Hans/docs/'},
+          { text: "文档", link: '/zh-Hans/docs/'}
         ]
       }     
     }
